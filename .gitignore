@@ -16,6 +16,8 @@
 /build
 
 # misc
+.env
+.prettierrc
 .DS_Store
 *.pem
 

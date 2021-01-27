@@ -12,7 +12,7 @@ const handler = nc()
     res.json({ hello: "world" });
   })
   .put(async (req, res) => {
-    res.end("hello");
+    res.end("hey there");
   });
 
 export default handler;
